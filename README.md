@@ -1,5 +1,7 @@
 # ToDoMVC Test Project
 
+This is sample coding project. It uses Maven, Selenium webdriver, BDD Cucumber + Page Object Model framework
+
 
 PREREQUISITES
 
