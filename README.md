@@ -1,4 +1,4 @@
-# ToDoMVC
+# ToDoMVC Test Project
 
 
 STEPS TO RUN THE PROJECT
